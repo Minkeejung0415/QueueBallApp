@@ -1,2 +1,0 @@
-# QueueBallApp
-Trigger GitHub Actions
